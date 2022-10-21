@@ -13,7 +13,7 @@
 - go run .
 
 ## Header
-- Bearer <token>
+- Bearer token
 
 ## Fitur
 * Auth
